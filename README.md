@@ -13,7 +13,7 @@ Full Stack Mern Developer • Flutter Developer • Node.js Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C98B&center=true&vCenter=true&width=700&lines=Flutter+Developer;React+Developer;Node.js+Developer;ERP+Software+Developer;Mobile+%26+Web+Application+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C98B&center=true&vCenter=true&width=700&lines=Full+Stack+Mern+Developer;Flutter+Developer;Node.js+Developer;ERP+Software+Developer;Mobile+%26+Web+Application+Developer" />
 </p>
 
 ---
