@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C98B&height=250&section=header&text=Faisal&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Faisal</h1>
+<h1 align="center">Hi 👋, I'm Faisal A</h1>
 
 <h3 align="center">
 Software Developer at Weronz 🚀
